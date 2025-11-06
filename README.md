@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-<!--
-**gzl12312398-lgtm/gzl12312398-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 姓名:耿宗链
-- 🌱 年龄：18
-- 👯 家乡：重庆
-- 🤔 爱好：打篮球 打游戏 听音乐
+- 姓名性别：耿宗链 女
+- 身份标签：在校大学生 | 前端开发学习者 | 开源爱好者
+- 所在城市：武汉 | 线上
+- 联系方式：[邮箱](gzl12312398@qq.com)
 
 
+## ✨ 座右铭
+Interest is the most eloquent mentor.
