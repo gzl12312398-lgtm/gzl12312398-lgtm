@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-- 姓名性别：耿宗链 女
-- 身份标签：在校大学生 | 前端开发学习者 | 开源爱好者
-- 所在城市：武汉 | 线上
-- 联系方式：[邮箱](gzl12312398@qq.com)
+## 🚀 About Me
 
-## ✨ 座右铭
+- 🌱 正在学习：前端工程化
+- 💻 技术栈：JavaScript / Vue / Node.js
+- 📫 联系我：[邮箱](3574849389@qq.com)
 
-Interest is the most eloquent mentor.
+## ✨
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+## 🔥 Top Languages
+
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gzl12312398-lgtm)
