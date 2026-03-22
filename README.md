@@ -5,6 +5,8 @@
 - 所在城市：武汉 | 线上
 - 联系方式：[邮箱](gzl12312398@qq.com)
 
-
 ## ✨ 座右铭
+
 Interest is the most eloquent mentor.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
