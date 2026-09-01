@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Learner;Vue+Developer;Future+Engineer&center=true&size=25)
-
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;)
 ---
 
-## 🌱 About Me
+A college student chasing pixels and logic, while actively exploring other fascinating fields in the tech world. Always eager to learn new things and build fun projects! 
 
-🎓 在读 | 💻 前端学习中
+### 💡 About Me
 
-- 🚀 目标：成为前端工程师
-- 📚 技术方向：Vue / JavaScript / 工程化
-- 🧠 正在提升：组件化 & 项目能力
+- 🎓 Currently a college student diving deep into Web Development.
+- 🔭 Working on a mini-game project.
+- 🌱 Learning how to integrate and build with **LLMs** (Large Language Models).
+- ✨ Constantly exploring new technologies and possibilities beyond frontend.
 
 ---
 
@@ -20,24 +20,3 @@
 
 ---
 
-## 🔥 Current Focus
-
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Learning+Vue3;Exploring+Vite;Understanding+pnpm;Building+Projects&center=true)
-
----
-
-## 🔥 Streak
-
-![streak](https://streak-stats.demolab.com/?user=gzl12312398-lgtm&theme=radical)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [邮箱](3574849389@qq.com)
-
----
-
-## 🚀 Motto
-
-> Keep coding, keep growing.
